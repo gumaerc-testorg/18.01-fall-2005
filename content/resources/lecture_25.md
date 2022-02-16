@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource gives information on inverse hyperbolic functions and inverse
   substitution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2005/c65b8d0f77fc136d49a867a557718739_lecture_25.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2005/c65b8d0f77fc136d49a867a557718739_lecture_25.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_25.pdf
 uid: c65b8d0f-77fc-136d-49a8-67a557718739

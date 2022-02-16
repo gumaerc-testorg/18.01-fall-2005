@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2005/ee718edf7377ee2bd29c223c704f56bc_ocw01f05exam5pra.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2005/ee718edf7377ee2bd29c223c704f56bc_ocw01f05exam5pra.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: ocw01f05exam5pra.pdf
 uid: ee718edf-7377-ee2b-d29c-223c704f56bc

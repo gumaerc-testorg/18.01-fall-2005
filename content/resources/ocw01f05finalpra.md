@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problems on differentiation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2005/f6dff5be393d86a7c9f386653a2c89e6_ocw01f05finalpra.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2005/f6dff5be393d86a7c9f386653a2c89e6_ocw01f05finalpra.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: ocw01f05finalpra.pdf
 uid: f6dff5be-393d-86a7-c9f3-86653a2c89e6

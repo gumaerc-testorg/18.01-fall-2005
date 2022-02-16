@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problems volume of the solid of revolution
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-01-single-variable-calculus-fall-2005/8a38b69d281d613e9b9267e1db590383_ocw01exam4.pdf
+file: /media/courses/18-01-single-variable-calculus-fall-2005/8a38b69d281d613e9b9267e1db590383_ocw01exam4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: ocw01exam4.pdf
 uid: 8a38b69d-281d-613e-9b92-67e1db590383
