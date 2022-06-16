@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a table containing lecture notes files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +10,7 @@ uid: e39fd753-7ebc-992a-0607-7dcfca9c7202
 
 These lecture notes represent a summary of the topics discussed in class. Each lecture includes a list of homework problems from the assigned problem set which can be completed using the material from that session's lecture. The practice problems for each lecture are not to be written up or turned in. These are assigned only for practice, and are entirely voluntary.
 
-All Lecture Notes in One File ([PDF - 1.4 MB]({{< baseurl >}}/resources/ocw01f05sums))
+All Lecture Notes in One File ({{% resource_link 40073565-1ecc-9564-7e4c-74067ad2fa3f "PDF - 1.4 MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -29,7 +30,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Velocity and Rates of Change ([PDF]({{< baseurl >}}/resources/lecture_1))
+Velocity and Rates of Change ({{% resource_link 884fe2a9-80a7-06e9-497d-a2d2e291cbfd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Velocity and Rates of Change ([PDF]({{< baseurl >}}/resources/lecture_1))
 {{< tdopen >}}
 Slope and Derivative  
   
-Limits and Continuity ([PDF]({{< baseurl >}}/resources/lecture_2))
+Limits and Continuity ({{% resource_link eefe117d-6053-d308-0e19-b312ecd61e40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Limits and Continuity ([PDF]({{< baseurl >}}/resources/lecture_2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Differentiation Formulas: Products and Quotients ([PDF]({{< baseurl >}}/resources/lecture_3))
+Differentiation Formulas: Products and Quotients ({{% resource_link 2c949d4d-ae71-3c36-86f2-679eacec4595 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Differentiation Formulas: Products and Quotients ([PDF]({{< baseurl >}}/resource
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Chain Rule and Implicit Differentiation ([PDF]({{< baseurl >}}/resources/lecture_4))
+Chain Rule and Implicit Differentiation ({{% resource_link 8ec02852-aba7-35ab-d999-9582c6f78ff7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Chain Rule and Implicit Differentiation ([PDF]({{< baseurl >}}/resources/lecture
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Derivatives of Exponential and Logarithm Functions ([PDF]({{< baseurl >}}/resources/lecture_5))
+The Derivatives of Exponential and Logarithm Functions ({{% resource_link e1547279-5ec9-d81e-1ff1-8b04bf8ff971 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ The Derivatives of Exponential and Logarithm Functions ([PDF]({{< baseurl >}}/re
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The Derivatives of Trigonometric Functions ([PDF]({{< baseurl >}}/resources/lecture_6))
+The Derivatives of Trigonometric Functions ({{% resource_link 9eb535ac-5a79-43aa-a19f-1bf6887eae84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ The Derivatives of Trigonometric Functions ([PDF]({{< baseurl >}}/resources/lect
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Review for Exam 1 ([PDF]({{< baseurl >}}/resources/lecture_7))
+Review for Exam 1 ({{% resource_link 73561dee-1956-aed2-e3e1-d4f2a9dd4ece "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +95,7 @@ Review for Exam 1 ([PDF]({{< baseurl >}}/resources/lecture_7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Approximations ([PDF]({{< baseurl >}}/resources/lecture_8))  
+Approximations ({{% resource_link c9011f55-d0c8-cb9f-9fc9-e3b1dab8f522 "PDF" %}})  
   
 Mean Value Theorem
 {{< tdclose >}}
@@ -105,7 +106,7 @@ Mean Value Theorem
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Curve Sketching ([PDF]({{< baseurl >}}/resources/lecture_9))
+Curve Sketching ({{% resource_link e623940e-d32c-0dc3-f942-b64b9db07485 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +115,7 @@ Curve Sketching ([PDF]({{< baseurl >}}/resources/lecture_9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Max-Min Problems ([PDF]({{< baseurl >}}/resources/lecture_10))
+Max-Min Problems ({{% resource_link 25ae7141-161e-c61f-36a5-f8ea64c382b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ Max-Min Problems ([PDF]({{< baseurl >}}/resources/lecture_10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Related Rates ([PDF]({{< baseurl >}}/resources/lecture_11))
+Related Rates ({{% resource_link d08351f0-007b-7ed0-32f2-6a93eea3e4ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Related Rates ([PDF]({{< baseurl >}}/resources/lecture_11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Inequalities, Zeros, and Newton's Method ([PDF]({{< baseurl >}}/resources/lecture_12))
+Inequalities, Zeros, and Newton's Method ({{% resource_link ec22bc01-2e1d-2288-d81b-5696f9b9e860 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +142,7 @@ Inequalities, Zeros, and Newton's Method ([PDF]({{< baseurl >}}/resources/lectur
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Differentials and Indefinite Integrals ([PDF]({{< baseurl >}}/resources/lecture_13))
+Differentials and Indefinite Integrals ({{% resource_link cf020a8c-d634-6bcd-9b48-7bbd35053c78 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +151,7 @@ Differentials and Indefinite Integrals ([PDF]({{< baseurl >}}/resources/lecture_
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Definite Integrals ([PDF]({{< baseurl >}}/resources/lecture_14))
+Definite Integrals ({{% resource_link 1dac4513-cd2f-14a0-3f53-1d25ddb4d49a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ Definite Integrals ([PDF]({{< baseurl >}}/resources/lecture_14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The Fundamental Theorem of Calculus ([PDF]({{< baseurl >}}/resources/lecture_15))
+The Fundamental Theorem of Calculus ({{% resource_link 3963a207-1d3e-67bf-f518-3051557117f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +169,7 @@ The Fundamental Theorem of Calculus ([PDF]({{< baseurl >}}/resources/lecture_15)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Properties of Definite Integrals ([PDF]({{< baseurl >}}/resources/lecture_16))
+Properties of Definite Integrals ({{% resource_link bbd4dc70-68af-c546-a01d-7199640ffdbb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +178,7 @@ Properties of Definite Integrals ([PDF]({{< baseurl >}}/resources/lecture_16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Differential Equations and Separation of Variables ([PDF]({{< baseurl >}}/resources/lecture_17))
+Differential Equations and Separation of Variables ({{% resource_link ab6a0344-aca9-6997-aa94-a0ff38d5b20d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +187,7 @@ Differential Equations and Separation of Variables ([PDF]({{< baseurl >}}/resour
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Numerical Integration and Review of Unit 3 ([PDF]({{< baseurl >}}/resources/lecture_18))
+Numerical Integration and Review of Unit 3 ({{% resource_link 13881cd5-1cbd-9d99-7d9a-86e2eecfc563 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +196,7 @@ Numerical Integration and Review of Unit 3 ([PDF]({{< baseurl >}}/resources/lect
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Areas between Curves, Volumes of Revolutions, and Slicing ([PDF]({{< baseurl >}}/resources/lecture_19))
+Areas between Curves, Volumes of Revolutions, and Slicing ({{% resource_link c08b62b6-0d20-c515-1c36-9bc284280c54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +205,7 @@ Areas between Curves, Volumes of Revolutions, and Slicing ([PDF]({{< baseurl >}}
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Volumes by Shells and Average Values ([PDF]({{< baseurl >}}/resources/lecture_20))
+Volumes by Shells and Average Values ({{% resource_link 9b2ab33d-d800-b96b-c09f-82cbdcc2957d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +214,7 @@ Volumes by Shells and Average Values ([PDF]({{< baseurl >}}/resources/lecture_20
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Parametric Equations and Arc Length ([PDF]({{< baseurl >}}/resources/lecture_21))
+Parametric Equations and Arc Length ({{% resource_link 8222caa0-0348-40f0-a80c-ea720c168f3e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +223,7 @@ Parametric Equations and Arc Length ([PDF]({{< baseurl >}}/resources/lecture_21)
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Surface Area and Polar Coordinate Graphs ([PDF]({{< baseurl >}}/resources/lecture_22))
+Surface Area and Polar Coordinate Graphs ({{% resource_link 33e262f0-6a63-0d03-967d-7a238e37b7f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +232,7 @@ Surface Area and Polar Coordinate Graphs ([PDF]({{< baseurl >}}/resources/lectur
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Area and Arc Length in Polar Coordinates ([PDF]({{< baseurl >}}/resources/lecture_23))
+Area and Arc Length in Polar Coordinates ({{% resource_link 1505639b-4efb-c538-ea6b-2545c9fc7a7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +241,7 @@ Area and Arc Length in Polar Coordinates ([PDF]({{< baseurl >}}/resources/lectur
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Inverse Trigonometric Functions and Hyperbolic Functions ([PDF]({{< baseurl >}}/resources/lecture_24))
+Inverse Trigonometric Functions and Hyperbolic Functions ({{% resource_link a965aee8-315e-7d22-d2a5-b0d3d37500db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +250,7 @@ Inverse Trigonometric Functions and Hyperbolic Functions ([PDF]({{< baseurl >}}/
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Integration by Inverse Substitution ([PDF]({{< baseurl >}}/resources/lecture_25))
+Integration by Inverse Substitution ({{% resource_link c65b8d0f-77fc-136d-49a8-67a557718739 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +259,7 @@ Integration by Inverse Substitution ([PDF]({{< baseurl >}}/resources/lecture_25)
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Integration by Partial Fractions ([PDF]({{< baseurl >}}/resources/lecture_26))
+Integration by Partial Fractions ({{% resource_link 50cb3806-4f1b-9c44-40dc-3e223ed1194b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +268,7 @@ Integration by Partial Fractions ([PDF]({{< baseurl >}}/resources/lecture_26))
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Integration by Parts ([PDF]({{< baseurl >}}/resources/lecture_27))
+Integration by Parts ({{% resource_link 0f4c1baf-e311-ba95-84fe-356bf8634d8c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -276,7 +277,7 @@ Integration by Parts ([PDF]({{< baseurl >}}/resources/lecture_27))
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Indeterminate Forms and L'Hospital's Rule ([PDF]({{< baseurl >}}/resources/lecture_28))
+Indeterminate Forms and L'Hospital's Rule ({{% resource_link 1514eae8-5cde-e234-d3d0-a5814d184961 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +286,7 @@ Indeterminate Forms and L'Hospital's Rule ([PDF]({{< baseurl >}}/resources/lectu
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Improper Integrals ([PDF]({{< baseurl >}}/resources/lecture_29))
+Improper Integrals ({{% resource_link fc004294-776a-6069-f321-e9adee34691a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +295,7 @@ Improper Integrals ([PDF]({{< baseurl >}}/resources/lecture_29))
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Infinite Series ([PDF]({{< baseurl >}}/resources/lecture_30))
+Infinite Series ({{% resource_link bda4823e-2682-8f10-0490-1b68cc09d692 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +304,7 @@ Infinite Series ([PDF]({{< baseurl >}}/resources/lecture_30))
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Power Series ([PDF]({{< baseurl >}}/resources/lecture_31))
+Power Series ({{% resource_link aaee7a8d-1d38-1793-6159-e4b087d81d10 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,7 +313,7 @@ Power Series ([PDF]({{< baseurl >}}/resources/lecture_31))
 32-33
 {{< tdclose >}}
 {{< tdopen >}}
-Final Review ([PDF]({{< baseurl >}}/resources/lecture_32))
+Final Review ({{% resource_link e23b7410-e03c-079c-7619-902d9013d748 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
