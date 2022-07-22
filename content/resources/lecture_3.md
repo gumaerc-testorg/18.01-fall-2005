@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/2c949d4dae713c3686f2679e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_3.pdf
 uid: 2c949d4d-ae71-3c36-86f2-679eacec4595
 ---
 This resource gives information on rules of differentiation.
-

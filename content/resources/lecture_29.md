@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/fc004294776a6069f321e9ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_29.pdf
 uid: fc004294-776a-6069-f321-e9adee34691a
 ---
 This resource gives information on improper integrals.
-

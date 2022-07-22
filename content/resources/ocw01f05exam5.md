@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/ca494ce2f9674cfb56bdbafd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocw01f05exam5.pdf
 uid: ca494ce2-f967-4cfb-56bd-bafd40e82a30
 ---
 This resource contains problems on antiderivative.
-

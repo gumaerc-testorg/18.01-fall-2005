@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/16f774ebb5bc94bc8f127a2b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocwpractfinal.pdf
 uid: 16f774eb-b5bc-94bc-8f12-7a2b1c2dceac
 ---
 This resource contains problems on definite integral.
-

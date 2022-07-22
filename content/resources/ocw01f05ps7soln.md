@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/18e7fd1ddad86864b46866f8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocw01f05ps7soln.pdf
 uid: 18e7fd1d-dad8-6864-b468-66f877cfddc1
 ---
 This resource provide solutions to problem set 7.
-

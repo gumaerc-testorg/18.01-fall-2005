@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/55352df151eb400de5bfbf1d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pfa.pdf
 uid: 55352df1-51eb-400d-e5bf-bf1df51c5a1b
 ---
 This resource contains figure corresponding to exams file of exam #6.
-

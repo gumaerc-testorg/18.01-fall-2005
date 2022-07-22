@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/4681444adbf973d6800b7b37
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

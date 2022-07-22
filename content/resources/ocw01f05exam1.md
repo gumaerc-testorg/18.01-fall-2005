@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/f7bedab680c40c213f44582f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocw01f05exam1.pdf
 uid: f7bedab6-80c4-0c21-3f44-582f79379d76
 ---
 This resource contains problems implicit equation.
-

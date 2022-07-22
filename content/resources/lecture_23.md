@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/1505639b4efbc538ea6b2545
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_23.pdf
 uid: 1505639b-4efb-c538-ea6b-2545c9fc7a7d
 ---
 This resource gives information on tangent lines, arc length and areas for polar curves.
-

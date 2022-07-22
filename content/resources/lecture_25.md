@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/c65b8d0f77fc136d49a867a5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_25.pdf
 uid: c65b8d0f-77fc-136d-49a8-67a557718739
 ---
 This resource gives information on inverse hyperbolic functions and inverse substitution.
-

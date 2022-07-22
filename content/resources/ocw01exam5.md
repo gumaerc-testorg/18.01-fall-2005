@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/d163624796018d7fe7dc6a6a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocw01exam5.pdf
 uid: d1636247-9601-8d7f-e7dc-6a6ac5c788f9
 ---
 This resource contains problems partial fraction decomposition.
-

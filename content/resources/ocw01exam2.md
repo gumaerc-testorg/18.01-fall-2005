@@ -5,6 +5,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/bc0c80c069617f656392db6b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ocw01exam2.pdf
 uid: bc0c80c0-6961-7f65-6392-db6b6ee6b034
 ---
 This resource contains problems on quadratic approximation.
-

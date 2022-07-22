@@ -6,6 +6,7 @@ file: /courses/18-01-single-variable-calculus-fall-2005/467054d9058a8362ac8726e9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps6_2c.pdf
 uid: 467054d9-058a-8362-ac87-26e9b039f289
 ---
 This resource contains a figure corresponding to solution of problem set 6.
-
