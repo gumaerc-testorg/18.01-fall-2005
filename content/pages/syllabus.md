@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains prerequisites, description, and goals.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: cb273b98-a33a-1623-7767-909b633490f7
 ---

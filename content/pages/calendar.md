@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a table of topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6c235e28-98eb-99c0-0297-9fd9d7de095a
 ---
