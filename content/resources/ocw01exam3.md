@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on indefinite integral.
 file: /courses/18-01-single-variable-calculus-fall-2005/39b56274661cea0cd9b1713fd368fa66_ocw01exam3.pdf
+file_size: 95662
 file_type: application/pdf
 learning_resource_types:
 - Exams

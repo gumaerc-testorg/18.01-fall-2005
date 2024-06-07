@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-01-single-variable-calculus-fall-2005/67082304b3b10f4726fa4955853ac3b0_ocw01f05final.pdf
+file_size: 34299
 file_type: application/octet-stream
 learning_resource_types:
 - Exams

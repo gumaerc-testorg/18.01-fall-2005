@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provide solutions to final practice problems.
 file: /courses/18-01-single-variable-calculus-fall-2005/8ee8c053c7bdc86aeb00e2c482b09ad1_ocwpracsolns.pdf
+file_size: 160573
 file_type: application/pdf
 learning_resource_types:
 - Exams

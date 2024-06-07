@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on rules of differentiation.
 file: /courses/18-01-single-variable-calculus-fall-2005/2c949d4dae713c3686f2679eacec4595_lecture_3.pdf
+file_size: 162257
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

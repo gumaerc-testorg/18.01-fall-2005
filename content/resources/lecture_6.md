@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on the derivatives of trigonometric functions.
 file: /courses/18-01-single-variable-calculus-fall-2005/9eb535ac5a7943aaa19f1bf6887eae84_lecture_6.pdf
+file_size: 148500
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

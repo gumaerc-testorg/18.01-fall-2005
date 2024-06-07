@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on applications of integration to volumes.
 file: /courses/18-01-single-variable-calculus-fall-2005/c08b62b60d20c5151c369bc284280c54_lecture_19.pdf
+file_size: 184938
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

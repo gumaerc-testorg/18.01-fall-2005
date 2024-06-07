@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-01-single-variable-calculus-fall-2005/f49d7c804ea1312c5c32371f0dff4170_ps6_hb.pdf
+file_size: 14641
 file_type: application/pdf
 learning_resource_types:
 - Assignments

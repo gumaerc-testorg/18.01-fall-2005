@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on the chain rule and implicit differentiation.
 file: /courses/18-01-single-variable-calculus-fall-2005/8ec02852aba735abd9999582c6f78ff7_lecture_4.pdf
+file_size: 146031
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

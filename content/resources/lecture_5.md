@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on the derivatives of exponential and
   logarithm functions.
 file: /courses/18-01-single-variable-calculus-fall-2005/e15472795ec9d81e1ff18b04bf8ff971_lecture_5.pdf
+file_size: 175548
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

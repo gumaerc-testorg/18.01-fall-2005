@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on newton's method.
 file: /courses/18-01-single-variable-calculus-fall-2005/ec22bc012e1d2288d81b5696f9b9e860_lecture_12.pdf
+file_size: 55121
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

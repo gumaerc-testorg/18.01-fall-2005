@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provide solutions to problem set 1.
 file: /courses/18-01-single-variable-calculus-fall-2005/9485ba49a09f89757976923c3aa4428f_ocw01f05ps1soln.pdf
+file_size: 195109
 file_type: application/pdf
 learning_resource_types:
 - Assignments

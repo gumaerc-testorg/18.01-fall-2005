@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on polar curve.
 file: /courses/18-01-single-variable-calculus-fall-2005/2d94872e712a4435f1a86dd12e42862e_ocw01f05ps6.pdf
+file_size: 71763
 file_type: application/pdf
 learning_resource_types:
 - Assignments
