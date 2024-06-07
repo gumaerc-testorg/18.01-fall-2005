@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on saving accounts and loans.
 file: /courses/18-01-single-variable-calculus-fall-2005/a6c5ce5fb61efaa7d311a9f42d4327b9_ocw01f05ps2.pdf
+file_size: 85546
 file_type: application/pdf
 learning_resource_types:
 - Assignments

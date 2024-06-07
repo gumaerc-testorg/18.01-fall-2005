@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on tangent lines, arc length and areas
   for polar curves.
 file: /courses/18-01-single-variable-calculus-fall-2005/1505639b4efbc538ea6b2545c9fc7a7d_lecture_23.pdf
+file_size: 159013
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on riemann integral.
 file: /courses/18-01-single-variable-calculus-fall-2005/c6bbd57b4fc9ee72df73e00760672c71_ocw01f05ps4.pdf
+file_size: 78299
 file_type: application/pdf
 learning_resource_types:
 - Assignments

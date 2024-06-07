@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on integration by parts.
 file: /courses/18-01-single-variable-calculus-fall-2005/0f4c1bafe311ba9584fe356bf8634d8c_lecture_27.pdf
+file_size: 141653
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
