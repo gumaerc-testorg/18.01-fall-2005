@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on quadratic approximation.
 file: /courses/18-01-single-variable-calculus-fall-2005/e5e8c3f90b0e8503ed57481b30e01aab_ocw01f05exam2.pdf
+file_size: 70826
 file_type: application/pdf
 learning_resource_types:
 - Exams

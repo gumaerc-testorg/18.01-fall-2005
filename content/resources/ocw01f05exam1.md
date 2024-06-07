@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems implicit equation.
 file: /courses/18-01-single-variable-calculus-fall-2005/f7bedab680c40c213f44582f79379d76_ocw01f05exam1.pdf
+file_size: 82443
 file_type: application/pdf
 learning_resource_types:
 - Exams

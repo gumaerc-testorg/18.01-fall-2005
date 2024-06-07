@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on linear and quadratic approximations.
 file: /courses/18-01-single-variable-calculus-fall-2005/c9011f55d0c8cb9f9fc9e3b1dab8f522_lecture_8.pdf
+file_size: 145880
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
