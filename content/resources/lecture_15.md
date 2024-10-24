@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on The fundamental theorem of calculus.
-file: /courses/18-01-single-variable-calculus-fall-2005/3963a2071d3e67bff5183051557117f1_lecture_15.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/3963a2071d3e67bff5183051557117f1_lecture_15.pdf
 file_size: 191744
 file_type: application/pdf
 learning_resource_types:

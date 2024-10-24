@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on inverse trigonometric functions and
   hyperbolic functions.
-file: /courses/18-01-single-variable-calculus-fall-2005/a965aee8315e7d22d2a5b0d3d37500db_lecture_24.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/a965aee8315e7d22d2a5b0d3d37500db_lecture_24.pdf
 file_size: 156404
 file_type: application/pdf
 learning_resource_types:
