@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to problem set 8.
-file: /courses/18-01-single-variable-calculus-fall-2005/600852aa5aa4c90951a01b93647ac0c1_ocw01f05ps8soln.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/600852aa5aa4c90951a01b93647ac0c1_ocw01f05ps8soln.pdf
 file_size: 132815
 file_type: application/pdf
 learning_resource_types:

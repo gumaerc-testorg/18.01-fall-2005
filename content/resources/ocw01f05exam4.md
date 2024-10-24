@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems polar curve.
-file: /courses/18-01-single-variable-calculus-fall-2005/2942a9f53f21a6652fd1cbe30374638c_ocw01f05exam4.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/2942a9f53f21a6652fd1cbe30374638c_ocw01f05exam4.pdf
 file_size: 61519
 file_type: application/pdf
 learning_resource_types:
