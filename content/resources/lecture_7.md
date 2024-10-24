@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on review for exam 1.
-file: /courses/18-01-single-variable-calculus-fall-2005/73561dee1956aed2e3e1d4f2a9dd4ece_lecture_7.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/73561dee1956aed2e3e1d4f2a9dd4ece_lecture_7.pdf
 file_size: 56261
 file_type: application/pdf
 learning_resource_types:
