@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on partial fraction decomposition.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/50cb38064f1b9c4440dc3e223ed1194b_lecture_26.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/50cb38064f1b9c4440dc3e223ed1194b_lecture_26.pdf
 file_size: 216858
 file_type: application/pdf
 learning_resource_types:

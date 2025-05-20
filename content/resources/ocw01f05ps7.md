@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on  eccentricity.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/0e148f6ddb894d81a33760ddf929d23e_ocw01f05ps7.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/0e148f6ddb894d81a33760ddf929d23e_ocw01f05ps7.pdf
 file_size: 79684
 file_type: application/pdf
 learning_resource_types:

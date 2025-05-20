@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains figure of ps 5b prob1.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/b48d651265ced4c3cfd692bd217b0012_ps5prob1.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/b48d651265ced4c3cfd692bd217b0012_ps5prob1.pdf
 file_size: 31302
 file_type: application/pdf
 learning_resource_types:

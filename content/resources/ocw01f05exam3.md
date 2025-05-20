@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on antiderivative.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/9edb16e2bc48048017c6d49c4812e3fc_ocw01f05exam3.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/9edb16e2bc48048017c6d49c4812e3fc_ocw01f05exam3.pdf
 file_size: 80829
 file_type: application/pdf
 learning_resource_types:
