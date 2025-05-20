@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on late homework policy, and cooperation
   policy.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/80aca9b269200b28e3a7501873e83934_ocw01f05ps1.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/80aca9b269200b28e3a7501873e83934_ocw01f05ps1.pdf
 file_size: 71695
 file_type: application/pdf
 learning_resource_types:

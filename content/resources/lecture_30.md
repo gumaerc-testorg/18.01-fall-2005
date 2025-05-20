@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on sequences and series.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/bda4823e26828f1004901b68cc09d692_lecture_30.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/bda4823e26828f1004901b68cc09d692_lecture_30.pdf
 file_size: 185115
 file_type: application/pdf
 learning_resource_types:
