@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on current and time relationship.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/96c35ccbc9e27bca6f30ddac07405a23_ps5b.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/96c35ccbc9e27bca6f30ddac07405a23_ps5b.pdf
 file_size: 24106
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on power series and taylor series.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/aaee7a8d1d3817936159e4b087d81d10_lecture_31.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/aaee7a8d1d3817936159e4b087d81d10_lecture_31.pdf
 file_size: 205703
 file_type: application/pdf
 learning_resource_types:

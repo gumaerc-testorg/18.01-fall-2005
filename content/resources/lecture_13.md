@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on antidifferentiation.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/cf020a8cd6346bcd9b487bbd35053c78_lecture_13.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/cf020a8cd6346bcd9b487bbd35053c78_lecture_13.pdf
 file_size: 155104
 file_type: application/pdf
 learning_resource_types:

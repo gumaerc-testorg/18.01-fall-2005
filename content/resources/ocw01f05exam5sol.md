@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to exam 5.
-file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/1b1e5ee3430929c30fb9ccdc9935733f_ocw01f05exam5sol.pdf
+file: /courses/18-01-single-variable-calculus-fall-2005/1b1e5ee3430929c30fb9ccdc9935733f_ocw01f05exam5sol.pdf
 file_size: 106938
 file_type: application/pdf
 learning_resource_types:
