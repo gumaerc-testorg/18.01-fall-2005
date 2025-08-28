@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains figure corresponding to exams file of exam #6.'
-file: /courses/18-01-single-variable-calculus-fall-2005/f4a20feac347ebe7a1814fa002954f33_pfb.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/f4a20feac347ebe7a1814fa002954f33_pfb.pdf
 file_size: 14817
 file_type: application/pdf
 learning_resource_types:

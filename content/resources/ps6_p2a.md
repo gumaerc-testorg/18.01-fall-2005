@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a figure related to solution to problem set 6.
-file: /courses/18-01-single-variable-calculus-fall-2005/62605ff40abe7ae884ce39897594e178_ps6_p2a.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/62605ff40abe7ae884ce39897594e178_ps6_p2a.pdf
 file_size: 15167
 file_type: application/pdf
 learning_resource_types:
