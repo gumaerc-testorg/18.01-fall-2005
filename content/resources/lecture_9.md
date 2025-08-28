@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on sketching curves.
-file: /courses/18-01-single-variable-calculus-fall-2005/e623940ed32c0dc3f942b64b9db07485_lecture_9.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/e623940ed32c0dc3f942b64b9db07485_lecture_9.pdf
 file_size: 132363
 file_type: application/pdf
 learning_resource_types:

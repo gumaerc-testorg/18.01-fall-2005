@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on averages and volumes by shells.
-file: /courses/18-01-single-variable-calculus-fall-2005/9b2ab33dd800b96bc09f82cbdcc2957d_lecture_20.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/9b2ab33dd800b96bc09f82cbdcc2957d_lecture_20.pdf
 file_size: 207205
 file_type: application/pdf
 learning_resource_types:

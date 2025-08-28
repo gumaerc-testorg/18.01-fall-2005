@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems related parabloa, and derivative.
-file: /courses/18-01-single-variable-calculus-fall-2005/b6ab5d6e14aff3b25923053061195869_ocw01exam1.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/b6ab5d6e14aff3b25923053061195869_ocw01exam1.pdf
 file_size: 100396
 file_type: application/pdf
 learning_resource_types:

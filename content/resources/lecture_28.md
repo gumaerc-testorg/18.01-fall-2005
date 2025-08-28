@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on l'hospital's rule.
-file: /courses/18-01-single-variable-calculus-fall-2005/1514eae85cdee234d3d0a5814d184961_lecture_28.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/1514eae85cdee234d3d0a5814d184961_lecture_28.pdf
 file_size: 155026
 file_type: application/pdf
 learning_resource_types:
