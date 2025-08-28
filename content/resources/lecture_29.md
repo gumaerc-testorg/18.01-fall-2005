@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on improper integrals.
-file: /courses/18-01-single-variable-calculus-fall-2005/fc004294776a6069f321e9adee34691a_lecture_29.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/fc004294776a6069f321e9adee34691a_lecture_29.pdf
 file_size: 150386
 file_type: application/pdf
 learning_resource_types:

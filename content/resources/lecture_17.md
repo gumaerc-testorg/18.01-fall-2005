@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on separable ordinary differential equations.
-file: /courses/18-01-single-variable-calculus-fall-2005/ab6a0344aca96997aa94a0ff38d5b20d_lecture_17.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/ab6a0344aca96997aa94a0ff38d5b20d_lecture_17.pdf
 file_size: 179115
 file_type: application/pdf
 learning_resource_types:

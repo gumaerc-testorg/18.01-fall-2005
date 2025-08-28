@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on astroid.
-file: /courses/18-01-single-variable-calculus-fall-2005/1d926cb6c7f45bd58796719fd65a2775_astroid.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/1d926cb6c7f45bd58796719fd65a2775_astroid.pdf
 file_size: 14577
 file_type: application/pdf
 learning_resource_types:

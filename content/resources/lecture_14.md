@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on riemann integrals.
-file: /courses/18-01-single-variable-calculus-fall-2005/1dac4513cd2f14a03f531d25ddb4d49a_lecture_14.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/1dac4513cd2f14a03f531d25ddb4d49a_lecture_14.pdf
 file_size: 170606
 file_type: application/pdf
 learning_resource_types:

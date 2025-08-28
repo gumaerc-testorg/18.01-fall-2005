@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on numerical integration.
-file: /courses/18-01-single-variable-calculus-fall-2005/13881cd51cbd9d997d9a86e2eecfc563_lecture_18.pdf
+file: /ol-ocw-studio-app/courses/18-01-single-variable-calculus-fall-2005/13881cd51cbd9d997d9a86e2eecfc563_lecture_18.pdf
 file_size: 185545
 file_type: application/pdf
 learning_resource_types:
